@@ -1,0 +1,1520 @@
+{
+  "generated": "2026-09-09",
+  "publishedBy": "HK Technical Team - REPLACE WITH THE OWNER",
+  "note": "Seeded from the embedded register in product-evaluation-hub v4. Rows with verified 2025-02-14 were entered from recall and have NOT been checked against the issuing body. Verify them, update the verified date, then delete this note.",
+  "rowCount": 85,
+  "rows": [
+    {
+      "ref": "EN IEC 60335-1:2023",
+      "title": "Household and similar electrical appliances — Safety — Part 1: General requirements",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2023-05-19",
+      "supersedes": "EN 60335-1:2012+A15:2021",
+      "dow": "",
+      "tags": [
+        "appliance"
+      ],
+      "verified": "2026-05-31",
+      "source": "https://www.bsigroup.com"
+    },
+    {
+      "ref": "EN IEC 60335-2-7:2020+A1:2021",
+      "title": "Part 2-7: Particular requirements for washing machines",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-11-01",
+      "supersedes": "EN 60335-2-7:2010",
+      "dow": "",
+      "tags": [
+        "laundry"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-9:2023",
+      "title": "Part 2-9: Particular requirements for grills, toasters and similar",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2023-03-01",
+      "supersedes": "EN 60335-2-9:2003+A13:2010",
+      "dow": "",
+      "tags": [
+        "toaster"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-15:2024",
+      "title": "Part 2-15: Particular requirements for appliances for heating liquids",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2024-02-01",
+      "supersedes": "EN 60335-2-15:2016",
+      "dow": "",
+      "tags": [
+        "kettle"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-24:2023",
+      "title": "Part 2-24: Particular requirements for refrigerating appliances",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2023-06-01",
+      "supersedes": "EN 60335-2-24:2010",
+      "dow": "",
+      "tags": [
+        "fridge"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 62368-1:2020+A11:2020",
+      "title": "Audio/video, information and communication technology equipment — Part 1: Safety requirements",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-06-05",
+      "supersedes": "EN 60065:2014 and EN 60950-1:2006",
+      "dow": "",
+      "tags": [
+        "audio",
+        "computing"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 60065:2014+A11:2017",
+      "title": "Audio, video and similar electronic apparatus — Safety requirements",
+      "kind": "Standard",
+      "status": "Superseded",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2014-01-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "audio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 60950-1:2006+A2:2013",
+      "title": "Information technology equipment — Safety — Part 1: General requirements",
+      "kind": "Standard",
+      "status": "Superseded",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2006-01-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "computing"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 55014-1:2021",
+      "title": "Electromagnetic compatibility — Household appliances and electric tools — Part 1: Emission",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-04-01",
+      "supersedes": "EN 55014-1:2017",
+      "dow": "",
+      "tags": [
+        "appliance",
+        "motor"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 55014-2:2021",
+      "title": "Part 2: Immunity — Product family standard",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-04-01",
+      "supersedes": "EN 55014-2:2015",
+      "dow": "",
+      "tags": [
+        "appliance",
+        "motor"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 61000-3-2:2019+A1:2021",
+      "title": "Limits for harmonic current emissions (equipment ≤16 A per phase)",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-09-01",
+      "supersedes": "EN 61000-3-2:2014",
+      "dow": "",
+      "tags": [
+        "mains"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 61000-3-3:2013+A2:2021",
+      "title": "Limitation of voltage changes, voltage fluctuations and flicker",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "mains"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 55032:2015+A11:2020",
+      "title": "Electromagnetic compatibility of multimedia equipment — Emission requirements",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-05-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "audio",
+        "computing"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 55035:2017+A11:2020",
+      "title": "Electromagnetic compatibility of multimedia equipment — Immunity requirements",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-05-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "audio",
+        "computing"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 300 328 V2.2.2",
+      "title": "Wideband transmission systems — 2,4 GHz band — Harmonised standard for RED article 3.2",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2019-07-01",
+      "supersedes": "EN 300 328 V2.1.1",
+      "dow": "",
+      "tags": [
+        "radio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "ETSI EN 301 489-1 V2.2.3",
+      "title": "EMC standard for radio equipment — Part 1: Common technical requirements",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2019-11-01",
+      "supersedes": "EN 301 489-1 V2.1.1",
+      "dow": "",
+      "tags": [
+        "radio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "ETSI EN 301 489-17 V3.2.5",
+      "title": "Part 17: Specific conditions for broadband data transmission systems",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-06-01",
+      "supersedes": "EN 301 489-17 V3.2.4",
+      "dow": "",
+      "tags": [
+        "radio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 62479:2010",
+      "title": "Assessment of low power electronic and electrical equipment against RF exposure basic restrictions",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2010-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "radio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 50663:2017",
+      "title": "Generic standard for assessment of low power electronic and electrical equipment (10 MHz–300 GHz)",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2017-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "radio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 62133-2:2017+A1:2021",
+      "title": "Secondary cells and batteries containing alkaline or other non-acid electrolytes — Part 2: Lithium systems",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-11-01",
+      "supersedes": "EN 62133:2013",
+      "dow": "",
+      "tags": [
+        "lithium"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "UN 38.3 (Rev.8)",
+      "title": "UN Manual of Tests and Criteria — lithium battery transport testing",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2023-01-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "lithium"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 62368-3:2020",
+      "title": "Safety of DC power transfer through communication cables and ports",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-08-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "usbc"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 17128:2020",
+      "title": "Light motorised vehicles for the transportation of persons and goods — Personal light electric vehicles",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-10-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "ride"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 15194:2017+A1:2023",
+      "title": "Cycles — Electrically power assisted cycles — EPAC bicycles",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2023-05-01",
+      "supersedes": "EN 15194:2017",
+      "dow": "",
+      "tags": [
+        "epac"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 63000:2018",
+      "title": "Technical documentation for the assessment of electrical and electronic products with respect to RoHS",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2018-08-01",
+      "supersedes": "EN 50581:2012",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 62321 series",
+      "title": "Determination of certain substances in electrotechnical products",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-01-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2016/1101",
+      "title": "Electrical Equipment (Safety) Regulations 2016",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2016-12-08",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "mains",
+        "charger"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2016/1091",
+      "title": "Electromagnetic Compatibility Regulations 2016",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2016-12-08",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "mains",
+        "radio",
+        "motor"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2017/1206",
+      "title": "Radio Equipment Regulations 2017",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2017-12-26",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "radio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2012/3032",
+      "title": "Restriction of the Use of Certain Hazardous Substances in EEE Regulations 2012",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2013-01-02",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2005/1803",
+      "title": "General Product Safety Regulations 2005",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2005-10-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2023/1007",
+      "title": "Product Security and Telecommunications Infrastructure (Security Requirements) Regulations 2023",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2024-04-29",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "connected"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2021/745",
+      "title": "Ecodesign for Energy-Related Products and Energy Information Regulations 2021",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2021-07-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "energy"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2013/3113",
+      "title": "Waste Electrical and Electronic Equipment Regulations 2013",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2014-01-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2008/1597",
+      "title": "Supply of Machinery (Safety) Regulations 2008",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2008-12-29",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "motion"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Directive 2014/35/EU",
+      "title": "Low Voltage Directive",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2016-04-20",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "mains",
+        "charger"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Directive 2014/30/EU",
+      "title": "Electromagnetic Compatibility Directive",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2016-04-20",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "mains",
+        "radio",
+        "motor"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Directive 2014/53/EU",
+      "title": "Radio Equipment Directive",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2016-06-13",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "radio"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Delegated Regulation (EU) 2022/30",
+      "title": "RED delegated regulation — network protection, personal data and fraud (Art. 3(3)(d)(e)(f))",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2025-08-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "radio",
+        "connected"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2023/988",
+      "title": "General Product Safety Regulation",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2024-12-13",
+      "supersedes": "Directive 2001/95/EC",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Directive 2011/65/EU",
+      "title": "RoHS 2 — Restriction of hazardous substances",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2013-01-02",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EC) 1907/2006",
+      "title": "REACH — Registration, Evaluation, Authorisation and Restriction of Chemicals",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2007-06-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "always"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Directive 2022/2380",
+      "title": "Common charger — amendment to RED (USB-C and charging information)",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2024-12-28",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "usbc",
+        "charger"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2024/1781",
+      "title": "Ecodesign for Sustainable Products Regulation",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2024-07-18",
+      "supersedes": "Directive 2009/125/EC",
+      "dow": "",
+      "tags": [
+        "energy"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2023/1230",
+      "title": "Machinery Regulation",
+      "kind": "Regulation",
+      "status": "Upcoming",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2027-01-20",
+      "supersedes": "Directive 2006/42/EC",
+      "dow": "",
+      "tags": [
+        "motion"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2023/1542",
+      "title": "Batteries Regulation — portable battery removability and replaceability",
+      "kind": "Regulation",
+      "status": "Upcoming",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2027-02-18",
+      "supersedes": "Directive 2006/66/EC",
+      "dow": "",
+      "tags": [
+        "lithium",
+        "battery"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2024/2847",
+      "title": "Cyber Resilience Act — main obligations for products with digital elements",
+      "kind": "Regulation",
+      "status": "Upcoming",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2027-12-11",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "connected"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2025/40",
+      "title": "Packaging and Packaging Waste Regulation",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2026-08-12",
+      "supersedes": "Directive 94/62/EC",
+      "dow": "",
+      "tags": [
+        "packaged"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-2:2010+A11:2012",
+      "title": "Part 2-2: Particular requirements for vacuum cleaners and water-suction cleaning appliances",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2012-06-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "vacuum"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-3:2016",
+      "title": "Part 2-3: Particular requirements for electric irons",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2016-05-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "iron"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-5:2015+A11:2019",
+      "title": "Part 2-5: Particular requirements for dishwashers",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2019-08-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "dishwasher"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-6:2015+A11:2020",
+      "title": "Part 2-6: Particular requirements for stationary cooking ranges, hobs, ovens and similar",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-06-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "cooking"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-11:2010+A11:2012",
+      "title": "Part 2-11: Particular requirements for tumble dryers",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2012-06-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "tumble"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-14:2006+A12:2016",
+      "title": "Part 2-14: Particular requirements for kitchen machines",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2016-04-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "foodprep"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-23:2003+A11:2010",
+      "title": "Part 2-23: Particular requirements for appliances for skin or hair care",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2010-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "haircare"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-25:2012+A11:2020",
+      "title": "Part 2-25: Particular requirements for microwave ovens",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-04-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "microwave"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-30:2009+A12:2020",
+      "title": "Part 2-30: Particular requirements for room heaters",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-04-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "climate"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-80:2003+A2:2009",
+      "title": "Part 2-80: Particular requirements for fans",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2009-06-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "climate"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 60335-2-40:2003+A13:2012",
+      "title": "Part 2-40: Particular requirements for electrical heat pumps, air conditioners and dehumidifiers",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2012-06-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "climate"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 62471:2008",
+      "title": "Photobiological safety of lamps and lamp systems",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2008-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "laser",
+        "display"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 60825-1:2014+A11:2021",
+      "title": "Safety of laser products — Part 1: Equipment classification and requirements",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-08-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "laser"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 50360:2017",
+      "title": "Product standard for human exposure to radio frequency fields from mobile phones",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2017-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "sar"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 62209-2:2010",
+      "title": "Human exposure to radio frequency fields from wireless devices used close to the body",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2010-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "sar"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 62311:2020",
+      "title": "Assessment of electronic and electrical equipment related to human exposure restrictions for electromagnetic fields",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-08-01",
+      "supersedes": "EN 62311:2008",
+      "dow": "",
+      "tags": [
+        "radio",
+        "sar"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 71-1:2014+A1:2018",
+      "title": "Safety of toys — Part 1: Mechanical and physical properties",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2018-11-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "child"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 71-2:2020",
+      "title": "Safety of toys — Part 2: Flammability",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-08-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "child"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 71-3:2019+A1:2021",
+      "title": "Safety of toys — Part 3: Migration of certain elements",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2021-11-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "child"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 62115:2020+A11:2020",
+      "title": "Electric toys — Safety",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2020-10-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "child"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "Directive 2009/48/EC",
+      "title": "Toy Safety Directive",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2011-07-20",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "child"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "SI 2011/1881",
+      "title": "Toys (Safety) Regulations 2011",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "UK"
+      ],
+      "effective": "2011-07-20",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "child"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN IEC 62841-1:2015",
+      "title": "Electric motor-operated hand-held tools, transportable tools and lawn and garden machinery — Part 1: General",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2015-11-01",
+      "supersedes": "EN 60745-1:2009",
+      "dow": "",
+      "tags": [
+        "powertool"
+      ],
+      "verified": "2025-02-14",
+      "source": ""
+    },
+    {
+      "ref": "EN 60745-1:2009+A11:2010",
+      "title": "Hand-held motor-operated electric tools — Safety — Part 1: General requirements",
+      "kind": "Standard",
+      "status": "Superseded",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2010-06-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "powertool"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 50564:2011",
+      "title": "Electrical and electronic household and office equipment — Measurement of low power consumption",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2011-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "energy"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "EN 62301:2005+A1:2011",
+      "title": "Household electrical appliances — Measurement of standby power",
+      "kind": "Standard",
+      "status": "Current",
+      "markets": [
+        "UK",
+        "EU"
+      ],
+      "effective": "2011-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "energy",
+        "appliance"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2013",
+      "title": "Energy labelling of electronic displays",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 1062/2010",
+      "dow": "",
+      "tags": [
+        "display"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2021",
+      "title": "Ecodesign requirements for electronic displays",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 642/2009",
+      "dow": "",
+      "tags": [
+        "display"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2014",
+      "title": "Energy labelling of household washing machines and washer dryers",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 1061/2010",
+      "dow": "",
+      "tags": [
+        "laundry"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2023",
+      "title": "Ecodesign requirements for household washing machines and washer dryers",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 1015/2010",
+      "dow": "",
+      "tags": [
+        "laundry"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2016",
+      "title": "Energy labelling of refrigerating appliances",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 1060/2010",
+      "dow": "",
+      "tags": [
+        "fridge"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2019",
+      "title": "Ecodesign requirements for refrigerating appliances",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 643/2009",
+      "dow": "",
+      "tags": [
+        "fridge"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2017",
+      "title": "Energy labelling of household dishwashers",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 1059/2010",
+      "dow": "",
+      "tags": [
+        "dishwasher"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 2019/2022",
+      "title": "Ecodesign requirements for household dishwashers",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2021-03-01",
+      "supersedes": "Regulation 1016/2010",
+      "dow": "",
+      "tags": [
+        "dishwasher"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 65/2014",
+      "title": "Energy labelling of domestic ovens and range hoods",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2015-01-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "cooking"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 66/2014",
+      "title": "Ecodesign requirements for domestic ovens, hobs and range hoods",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2015-02-20",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "cooking"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    },
+    {
+      "ref": "Regulation (EU) 666/2013",
+      "title": "Ecodesign requirements for vacuum cleaners",
+      "kind": "Regulation",
+      "status": "Current",
+      "markets": [
+        "EU"
+      ],
+      "effective": "2014-09-01",
+      "supersedes": "",
+      "dow": "",
+      "tags": [
+        "vacuum"
+      ],
+      "verified": "2026-05-31",
+      "source": ""
+    }
+  ]
+}
