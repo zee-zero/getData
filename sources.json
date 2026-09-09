@@ -1,0 +1,46 @@
+{
+  "_readme": "Pages the weekly workflow watches. Each entry maps a gov.uk guidance page to the register rows it affects, so a change notice tells the reviewer exactly which rows to look at. Add or remove entries freely; the workflow reads this file, nothing is hardcoded.",
+  "_api": "https://www.gov.uk/api/content + base_path. Public, no key, no rate limit published. Only base_path is required per entry.",
+  "sources": [
+    {
+      "base_path": "/guidance/placing-ukca-or-ce-marked-products-on-the-market-in-great-britain",
+      "label": "Placing UKCA or CE marked products on the GB market",
+      "impacts": ["SI 2016/1101", "SI 2016/1091", "SI 2017/1206", "SI 2012/3032"]
+    },
+    {
+      "base_path": "/guidance/using-the-ukca-marking",
+      "label": "Using the UKCA marking",
+      "impacts": ["SI 2016/1101"]
+    },
+    {
+      "base_path": "/guidance/placing-manufactured-goods-on-the-market-in-northern-ireland",
+      "label": "Placing manufactured goods on the market in Northern Ireland",
+      "impacts": ["SI 2016/1101", "Directive 2014/35/EU"]
+    },
+    {
+      "base_path": "/guidance/regulations-electrical-and-electronic-equipment",
+      "label": "Electrical and electronic equipment regulations",
+      "impacts": ["SI 2016/1101", "SI 2016/1091", "SI 2012/3032", "SI 2013/3113"]
+    },
+    {
+      "base_path": "/product-safety-alerts-reports-recalls",
+      "label": "Product safety alerts, reports and recalls",
+      "impacts": ["SI 2005/1803"]
+    },
+    {
+      "base_path": "/guidance/product-security-and-telecommunications-infrastructure-act-2022",
+      "label": "PSTI Act 2022 security requirements",
+      "impacts": ["SI 2023/1007"]
+    },
+    {
+      "base_path": "/guidance/ecodesign-and-energy-labelling-requirements",
+      "label": "Ecodesign and energy labelling requirements",
+      "impacts": ["SI 2021/745"]
+    }
+  ],
+  "_notWatched": {
+    "eur_lex": "EUR-Lex has a web service and a SPARQL endpoint. Not wired up yet: it needs a query per instrument rather than a page poll, so build it once the gov.uk watcher is proven.",
+    "cen_cenelec": "Paywalled. Editions and Dates of Withdrawal for the EN 60335 and EN 62368 families stay manual, forever.",
+    "etsi": "Deliverables are published free at etsi.org, so the radio standards can be automated later. Not yet built."
+  }
+}
