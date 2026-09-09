@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-09",
-  "publishedBy": "HK Technical Team - REPLACE WITH THE OWNER",
+  "publishedBy": "Team",
   "note": "Seeded from the embedded register in product-evaluation-hub v4. Rows with verified 2025-02-14 were entered from recall and have NOT been checked against the issuing body. Verify them, update the verified date, then delete this note.",
   "rowCount": 85,
   "rows": [
@@ -795,7 +795,7 @@
       "ref": "Regulation (EU) 2023/1230",
       "title": "Machinery Regulation",
       "kind": "Regulation",
-      "status": "DEAD",
+      "status": "Current",
       "markets": [
         "EU"
       ],
